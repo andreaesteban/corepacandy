@@ -1,0 +1,2 @@
+# corepacandy
+Prácticas de CORE
